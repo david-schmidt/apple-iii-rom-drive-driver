@@ -13,5 +13,4 @@ Building requires a python interpreter in order to do the System Configuration P
 
 
 
-!\[Project Screenshot](screenshot.jpg)
-
+![Project Screenshot](screenshot.jpg)
