@@ -11,6 +11,11 @@ The [ROM-Drive](https://github.com/tjboldt/ProDOS-ROM-Drive) is a 1MB ROM interf
 
 Building requires a python interpreter in order to do the System Configuration Program (SCP) duties as delivered from Rob Justice's [a3driverutil project](https://github.com/robjustice/a3driverutil) and [ca65](https://github.com/cc65/cc65) in order to do the assembling and linking.
 
-
+## Screenshot
 
 ![Project Screenshot](screenshot.jpg)
+
+## Video 
+
+<video src="https://github.com/user-attachments/assets/6cd5837a-621a-403b-bbdc-dd1310ba419b" controls="controls" muted="muted" style="max-width: 100%;">
+</video>
